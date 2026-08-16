@@ -16,22 +16,6 @@
 
 <br>
 
-## 📊 Minhas estatísticas no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brazzzino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazzzino&layout=compact&theme=tokyonight"/>
-</div>
-
-<br>
-
-## 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brazzzino&theme=tokyonight&no-frame=true&row=1&column=7" alt="Troféus"/>
-</div>
-
-<br>
 
 ## 🐍 Contribuições
 
